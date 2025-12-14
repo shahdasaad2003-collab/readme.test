@@ -7,9 +7,10 @@
 -  	Wait until execution finishes.
 -  	Results will be displayed in the output and saved automatically
 # Required Libraries / Dependencies
--  • Python (pre-installed in Google Colab)
--  • PuLP library
+-   Python (pre-installed in Google Colab)
+-   PuLP library
 Note: If PuLP is not installed, install it in Colab using:
 ```python
 !pip install pulp
-# Required Libraries / Dependencies
+
+# gjhk
