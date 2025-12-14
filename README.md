@@ -2,10 +2,10 @@
 1.	Open the project link in Google Colab.
 ## Colab link
 [Colab link](https://colab.research.google.com/drive/1BvlUahvn1R_ltqZEVJAl7Dy5abBMP8j8)
--2.	Make sure the notebook is fully loaded.
--3.	From the top menu, select Runtime → Run all.
--4.	Wait until execution finishes.
--5.	Results will be displayed in the output and saved automatically
+-  2.	Make sure the notebook is fully loaded.
+-  3.	From the top menu, select Runtime → Run all.
+-  4.	Wait until execution finishes.
+-  5.	Results will be displayed in the output and saved automatically
 # Required Libraries / Dependencies
 •	Python (pre-installed in Google Colab)
 •	PuLP library
