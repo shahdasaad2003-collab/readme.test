@@ -1,7 +1,7 @@
 # How to run your code
 1.	Open the project link in Google Colab.
 ## Colab link
-[live dome](https://colab.research.google.com/drive/1BvlUahvn1R_ltqZEVJAl7Dy5abBMP8j8)
+[https://colab.research.google.com/drive/1BvlUahvn1R_ltqZEVJAl7Dy5abBMP8j8]
 	2.	Make sure the notebook is fully loaded.
 	3.	From the top menu, select Runtime → Run all.
 	4.	Wait until execution finishes.
@@ -9,6 +9,7 @@
 # Required Libraries / Dependencies
 •	Python (pre-installed in Google Colab)
 •	PuLP library
-Install the required library in Google Colab using:
+Note: If PuLP is not installed, install it in Colab using:
 ```python
 !pip install pulp
+# Required Libraries / Dependencies
