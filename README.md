@@ -12,5 +12,5 @@
 Note: If PuLP is not installed, install it in Colab using:
 ```python
 !pip install pulp
-
-# gjhk
+```
+# Group Members and Contribution Breakdown
